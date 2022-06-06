@@ -1,4 +1,4 @@
-# 2dgameengine
+# 2D Game Engine
 Simple 2D game engine using sdl, imgui and sol for lua binding
 
-This project was started for learning purpose, I try to improve it in my spare time. It still lacks a lot of things such as the Lua binding to be able to script. The engine will probably be rebuilt from scratch in a more robust way, using an ECS worthy of the name, such as the famous "entt" for example.
+This project was started for learning purpose, I try to improve it in my spare time. It still lacks a lot of things like the Lua binding to be able to script. The engine will probably be rebuilt from scratch using more robust tools than what I programmed, this one will probably be based on an ECS (Entity Component System) worthy of the name, like the famous "entt" for example.
